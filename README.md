@@ -1,5 +1,10 @@
 ## Hi, my name is emiliano peralta aguirre 👋
 
+🐼about me
+
+I am an Economics graduate with a strong interest in data analysis, business intelligence, and data-driven decision-making. I enjoy working with data to identify trends, solve business problems, and turn complex information into clear insights. My main tools include Excel, SQL, Python, and Power BI. I am currently focused on building projects related to sales analysis, customer behavior, KPIs, dashboards, and business performance to strengthen my skills and grow as a data analyst.
+
+
 link to profile: https://www.linkedin.com/in/emiliano-peralta-9302543a7/
 <!--
 **emilianoperaltaaguirre/emilianoperaltaaguirre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
