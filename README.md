@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi, my name is emiliano peralta aguirre 👋
 
+link to profile: https://www.linkedin.com/in/emiliano-peralta-9302543a7/
 <!--
 **emilianoperaltaaguirre/emilianoperaltaaguirre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
